@@ -1,0 +1,12 @@
+
+__pycache__/
+
+\.idea/
+
+car_images/
+
+license_images/
+
+tickets/
+
+reported_car/
