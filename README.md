@@ -214,17 +214,17 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 - In case of any help you may need from me, please contact sakibreza@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
-Sakib Reza, Rahat Zaman
-sakibreza1@gmail.com
-Student at Department of Computer Science and Engineering
-Khulna University of Engineering & Technology, Khulna
+Sakib Reza, Rahat Zaman<br>
+sakibreza1@gmail.com<br>
+Student at Department of Computer Science and Engineering<br>
+Khulna University of Engineering & Technology, Khulna<br>
 Bangladesh
 
-** Supervised under **
-Dr. Sk. Mohammad Masudul Ahsan
-Professor
-Dept. of Computer Science and Engineering
-Khulna University of Engineering & Technology
+<b> Supervised under </b><br>
+Dr. Sk. Mohammad Masudul Ahsan<br>
+Professor<br>
+Dept. of Computer Science and Engineering<br>
+Khulna University of Engineering & Technology<br>
 
 ## Licensing
 The code in this project is licensed under GNU GPLv3 license.
