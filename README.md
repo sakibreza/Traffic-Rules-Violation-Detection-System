@@ -1,4 +1,9 @@
-# Traffic Rules Violation Detection with Computer Vision
+# Traffic Rules Violation Detection System using Computer Vision
+> Primary release
+
+> <a href="https://drive.google.com/file/d/1Q3FFCpqXFkxAGHFHa4YC_Vw1PNtArMy6/view?usp=sharing"><h3>Project Video Demonstration</h3></a>
+
+> <a href="https://goo.gl/Lm9Srs"><h3>Project Report</h3></a>
 
 
 ![White theme Screen shot](images/main.png)
@@ -43,7 +48,7 @@ The increasing number of cars in cities can cause high volume of traffic, and im
 The goal of the project is to automate the traffic rules violation detection system and make it ease for the traffic police department to monitor the traffic and take action against the violated vehicle owner in a fast and efficient way. Detecting and tracking the vehicle and their activities accurately is the main priority of the system.
 
 ## Quick starting the project
-1. `git clone https://github.com/sakibreza/Traffic-Rule-Violation-Detection-System.git`
+1. `git clone https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System.git`
 2. Install required python dependencies into your python virtual environment.
 3. Create the following folders in the root of the project directory: `car_images`, `tickets`.
 4. `python3 main.py`
@@ -198,15 +203,15 @@ The main reason to publish something open source, is that anyone can just jump i
 So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links and References
-- Project homepage: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection
-- Repository: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection.git
-- Issue tracker: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection/issues
+- Project homepage: https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System
+- Repository: https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System.git
+- Issue tracker: https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System/issues
 - G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
 - X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
 - PyQt: https://riverbankcomputing.com/software/pyqt/intro
 - opencv: https://docs.opencv.org/2.4/index.html
 - imutils: https://github.com/jrosebr1/imutils
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
+- In case of any help you may need from me, please contact sakibreza@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
 Sakib Reza, Rahat Zaman
