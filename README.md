@@ -49,9 +49,10 @@ The goal of the project is to automate the traffic rules violation detection sys
 
 ## Quick starting the project
 1. `git clone https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System.git`
-2. Install required python dependencies into your python virtual environment.
-3. Create the following folders in the root of the project directory: `car_images`, `tickets`.
-4. `python3 main.py`
+2. Create a virtual enviroment using the command `virtualenv venv --python=python3`
+3. Install required python dependencies into your python virtual environment using `pip install -r requirements.txt`.
+4. Create the following folders in the root of the project directory: `car_images`, `tickets`.
+5. `python3 main.py`
 
 ## System Overview
 
