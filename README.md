@@ -221,7 +221,7 @@ Student at Department of Computer Science and Engineering<br>
 Khulna University of Engineering & Technology, Khulna<br>
 Bangladesh
 
-<b> Supervised under </b><br>
+<b> Supervised by </b><br>
 Dr. Sk. Mohammad Masudul Ahsan<br>
 Professor<br>
 Dept. of Computer Science and Engineering<br>
